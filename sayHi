@@ -1,0 +1,3 @@
+public static void sayHi(){
+	System.out.print("Hello gitHub!");
+}
