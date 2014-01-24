@@ -1,0 +1,3 @@
+basicAlgorithms
+===============
+First Method: sayHi
